@@ -1,0 +1,39 @@
+"The content on the Service includes videos, audio (for example music and other sounds), graphics, photos, text (such as comments and scripts), branding (including trade names, trademarks, service marks, or logos), interactive features, software, metrics, and other materials whether provided by you, YouTube or a third-party (collectively, "Content”). Content is the responsibility of the person or entity that provides it to the Service. YouTube is under no obligation to host or serve Content. If you see any Content you believe does not comply with this Agreement, including by violating the Community Guidelines or the law, you can report it to us."
+
+In summary: "You are responsible for the content your post to Youtube."
+
+"We respond to notices of alleged copyright infringement according to the process in our YouTube Copyright Center, where you can also find information about how to resolve a copyright strike. YouTube's policies provide for the termination, in appropriate circumstances, of repeat infringers’ access to the Service."
+
+In summary: "If you run into Copyright issues, we can be found at the Youtube Copyright Center."
+
+"If we reasonably believe that any of your Content (1) is in breach of this Agreement or (2) may cause harm to YouTube, our users, or third parties, we reserve the right to remove or take down that Content in accordance with applicable law. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would breach the law or the direction of a legal enforcement authority or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the Troubleshooting page of our Help Center."
+
+In summary: "We can take down any content that we believe is inappropriate."
+
+"There are many ways to express yourself on Facebook to communicate with friends, family, and others about what matters to you - for example, sharing status updates, photos, videos, and stories across the Meta Products (consistent with your settings), sending messages or making voice or video calls to a friend or several people, creating events or groups, or adding content to your profile as well as showing you insights on how others engage with your content. We have also developed, and continue to explore, new ways for people to use technology, such as augmented reality and 360 video to create and share more expressive and engaging content on Meta Products."
+
+In summary: "There are many ways to use Facebook to communicate with others - for example, photos and videos."
+
+"Protecting people's privacy is central to how we've designed our ad system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who might be interested."
+
+In summary: "We don't sell your data to advertisers but instead show their ads to people who would find it interesting."
+
+"We've previously disabled your account for violations of our Terms or the Community Standards, or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the Community Standards, or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause."
+
+In summary: "If we disable your account for violating the Terms, you can not create another account without our permission."
+
+"We reserve the right, in our sole discretion, to suspend, disqualify, limit or revoke this Promotional Offer for any person or account holder we find or believe to be manipulating or otherwise abusing the process, fairness, integrity or operation of the Promotional Offer, including any person whose overall client relationship with us is in our opinion not in good standing."
+
+In summary: "We are allowed to revoke this offer if you are abusing the process."
+
+"You are held financially responsible for the full residence fee as indicated in your contractual agreement and pursuant to this Agreement. If you withdraw from residence before the completion of your contract, you will be placed on our refund assessment list in order of withdrawal date. When a new student is confirmed into residence, a refund may be processed for the first student on the waiting list if Campus Housing reaches full occupancy. Read more in the Terms and Conditions of your contract for full details and exceptions (please see above for your specific Terms and Conditions)."
+
+In summary: "You are financially responsible for the residence fee and if you withdraw you will be placed on the refund assessment list."
+
+"Links to websites not under the control of the Government of Canada, including those to our social media accounts, are provided solely for the convenience of our website visitors. We are not responsible for the accuracy, currency or reliability of the content of such websites. The Government of Canada does not offer any guarantee in that regard and is not responsible for the information found through these links, and does not endorse the sites and their content."
+
+In summary: "The government is not responsible for any content on websites not under its control."
+
+"The Government of Canada reserves the right to report users and/or their comments and contributions to third-party social media service providers to prevent or remove the posting of content that is contrary to these Terms and Conditions, or to the Terms of Service/Use of the third-party social media platform."
+
+In summary: "The government reserves the right to report users to third parties in case of any violations."

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel= "stylesheet" type= "text/css" href= "../static/css/styles.css">
+    <title>TC;DR</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+
+  <div class="header-container">
+    <div class="header">
+
+      <div class="header-text">
+        <h1>We make reading those <span id=gradient>loooooong</span> documents, easy</h1>
+        
+        <p>TC;DR summarizes your lengthy terms of service documents to give you the information you're looking for!</p>    
+      </div>
+    
+      <img id="logo" src="../static/css/logo.png" alt="TC;DR LOGO">
+    </div>   
+  </div>
+
+  <div class="main">
+    <div class="raw">
+      <form action="http://127.0.0.1:5000/" method="post" id="form-example">
+        <div class="form-example">
+          <label for="rawText">Enter text to summarize:</label>
+          <textarea name="name" id="rawText" class="textbox4" cols="30" rows="10">{{ old_data }}</textarea>
+        </div>
+      </form>
+      <button id = "button" class="btn slide" type="submit" form="form-example" value="Submit">Submit</button>
+    </div>
+
+    <div class="summary">
+      <label for="rawText">Enter text to summarize:</label>
+      <textarea name="textbox2" class="textbox4" id="summarizedText" cols="30" rows="10">{{ x }}</textarea>
+    </div>
+  </div>
+</body>
+
+
+
+</html>
+
